@@ -1,0 +1,19 @@
+.wrapper {
+  border: 3px solid black;
+  border-radius: 10px;
+}
+
+.container {
+  background-color: white;
+}
+
+.barCompleted {
+  background-color: #ffd700;
+  width: 80%;
+}
+
+.label {
+  font-size: 20px;
+  color: green;
+  text-align: center;
+}
